@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joaonevess
 - 👀 I’m interested in coding and learn code language
-- 🌱 I’m currently learning javascript, python, html and css
+- 🌱 I’m currently getting more experience in JAVA, and studying python
 - 💞️ I’m looking to collaborate on projects that help me to build knowledge
 - 📫 How to reach me: send me a mensage
 
