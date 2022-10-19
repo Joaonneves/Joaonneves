@@ -1,9 +1,11 @@
-Eu sou joão e sou dev java
+Eu sou joão e sou dev java!
 
-- 👋 Hi, I’m @Joaonevess
-- 👀 I’m interested in coding and learn code language
-- 🌱 I’m currently getting more experience in JAVA, and studying python
-- 💞️ I’m looking to collaborate on projects that help me to build knowledge
+- 👀 Estou interessado em codar e aprender mais sobre minha main stack.
+
+- 🌱 Hoje eu estou adquirindo mais experiencia em JAVA, e estudando mais python para me aprimorar em ambas linguagens.
+
+- 💞️ Procuro colaborar com projetos JAVA/SPRING!
+
 - 📫 How to reach me: send me a mensage
 
 <!---
