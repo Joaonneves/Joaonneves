@@ -6,7 +6,7 @@ Eu sou joão e sou dev java!
 
 - 💞️ Procuro colaborar com projetos JAVA/SPRING!
 
-- 📫 How to reach me: send me a mensage
+- 📫 Contato: neves_joao@id.uff.br ou podem entrar em contato pelo twitter
 
 <!---
 Johnn404/Johnn404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
