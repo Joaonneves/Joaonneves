@@ -1,10 +1,10 @@
 # Olá! Eu sou joão!
 
-- Sou desenvolvedor java!
+- Sou desenvolvedor!
 
 - A procura da minha primeira oportunidade no mercado de trabalho.
 
-- Procuro colaborar com projetos JAVA/SPRING!
+- Procuro colaborar com projetos.
 
 - Contato: neves_joao@id.uff.br ou podem entrar em contato pelo twitter
 
