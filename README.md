@@ -2,6 +2,8 @@
 
 - Sou desenvolvedor!
 
+- Hoje estou estudando SuiteScript!
+
 - A procura da minha primeira oportunidade no mercado de trabalho.
 
 - Procuro colaborar com projetos.
