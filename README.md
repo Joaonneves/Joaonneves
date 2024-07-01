@@ -6,7 +6,7 @@
 
 - Procuro colaborar com projetos.
 
-- Contato: nevess.joao@gmail.com ou podem entrar em contato pelo twitter
+- Contato: nevess.joao@gmail.com.
 
 ## Tecnologias que sou mais experiente:
 <div style="display: inline_block"><br>
