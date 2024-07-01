@@ -2,11 +2,11 @@
 
 - Sou desenvolvedor!
 
-- Hoje estou estudando SuiteScript!
+- Hoje eu trabalho com desenvolvimento netsuite, e estudo o mesmo!
 
 - Procuro colaborar com projetos.
 
-- Contato: neves_joao@id.uff.br ou podem entrar em contato pelo twitter
+- Contato: nevess.joao@gmail.com ou podem entrar em contato pelo twitter
 
 ## Tecnologias que sou mais experiente:
 <div style="display: inline_block"><br>
